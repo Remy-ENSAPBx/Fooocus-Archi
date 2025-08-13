@@ -1,0 +1,1 @@
+python3.12 entry_with_update.py "$@"

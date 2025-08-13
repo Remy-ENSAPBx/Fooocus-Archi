@@ -138,7 +138,7 @@ If you want to use Anaconda/Miniconda, you can
 Then download the models: download [default models](#models) to the folder "Fooocus\models\checkpoints". **Or let Fooocus automatically download the models** using the launcher:
 
     conda activate fooocus
-    python entry_with_update.py
+    python3.12 entry_with_update.py
 
 Or, if you want to open a remote port, use
 
